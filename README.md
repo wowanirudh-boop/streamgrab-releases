@@ -9,6 +9,12 @@ extension detects. The extension does not work without it.
 
 All versions are on the [Releases](https://github.com/wowanirudh-boop/streamgrab-releases/releases) page.
 
+Or install from a terminal with [winget](https://learn.microsoft.com/windows/package-manager/):
+
+```
+winget install AnirudhSangubhotla.StreamGrab
+```
+
 ## Install
 
 1. Run the installer.
